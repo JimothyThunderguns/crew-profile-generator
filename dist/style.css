@@ -1,0 +1,31 @@
+/*header*/
+header {
+    text-align: center;
+  background: #B8383B;
+  color: white;
+  font-size: 30px;
+  border-bottom: #E1C16E 5px;
+  border-style: groove;
+  padding: 10px;
+}
+
+/*main content*/
+/*body*/
+.container {
+    margin: 50px auto;
+    justify-content: space-evenly;
+    display: flex;
+    flex-wrap: wrap;
+
+    
+}
+.card-header {
+    background-color: 	#B8383B;
+    
+}
+
+.card-body {
+    background-color: #C5AF91;
+    color: var(--primary);
+    height: 150px;
+}
